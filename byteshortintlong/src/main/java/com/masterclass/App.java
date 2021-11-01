@@ -25,5 +25,8 @@ public class App {
         long minLongValue = Long.MIN_VALUE;
         System.out.println("max long: " + maxLongValue);
         System.out.println("min long: " + minLongValue);
+
+        byte casted = (byte) (maxByteValue / 2);
+        System.out.println("Casted byte: " + casted);
     }
 }
