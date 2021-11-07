@@ -1,4 +1,4 @@
-package com.masterclass;
+package com.masterclass.byteshortintlong;
 
 /**
  * Hello world!
